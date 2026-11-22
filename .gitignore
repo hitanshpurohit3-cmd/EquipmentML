@@ -3,7 +3,8 @@ __pycache__/
 *.py[cod]
 .env
 .ipynb_checkpoints/
-data/raw/
+data/raw/*.zip
+data/raw/*.csv
 data/processed/
 models/
 mlruns/
